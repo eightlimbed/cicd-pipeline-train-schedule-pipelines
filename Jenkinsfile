@@ -1,5 +1,3 @@
-# Defines the CI/CD Pipeline
-
 pipeline {
   agent any
   stages {
